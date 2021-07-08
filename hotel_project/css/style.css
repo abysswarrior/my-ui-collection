@@ -82,6 +82,7 @@ p {
 
 .l-heading {
     font-size: 40px;
+    line-height: 1.2em;
 }
 
 /* Utility padding */
@@ -101,7 +102,7 @@ p {
     color: #fff;
 }
 
-#navbar h1 {
+#navbar .logo {
     float: left;
     padding-top: 20px;
 }
@@ -151,7 +152,7 @@ p {
 
 /* HOME INFO */
 #home-info {
-    height: 400px;
+    height: 450px;
 }
 
 #home-info .info-img {
@@ -211,7 +212,7 @@ p {
 /* TESTIMONIALS */
 #testimonials {
     background: url('../img/test-bg.jpg') no-repeat center center/cover;
-    height: 600px;
+    height: 100%;
     padding-top: 100px;
 }
 
