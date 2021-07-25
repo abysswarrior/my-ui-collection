@@ -9,6 +9,7 @@ A collection of my Front-End exercises and code snippets
 * [HTML Sandbox](#HTML-Sandbox)
 * [CSS Sandbox](#CSS-Sandbox)
 * [Hotel Website](#Hotel-Website)
+* [EdgeLeger Website](#EdgeLeger-Website)
 
 
 ## Code Snippets
@@ -31,3 +32,35 @@ Home                                      | About                               
 
 
 * [**A simple hotel website only with HTML5 & CSS3**](./hotel_project)
+
+#### EdgeLeger Website
+
+Landing Page                               |
+:----------------------------------------:
+![](./EdgeLeger_project/screenshot/landing-page.png)
+
+About                               |
+:----------------------------------------:
+![](./EdgeLeger_project/screenshot/about.png)
+
+Cases                               |
+:----------------------------------------:
+![](./EdgeLeger_project/screenshot/cases.png)
+
+Team                               |
+:----------------------------------------:
+![](./EdgeLeger_project/screenshot/team.png)
+
+Callback Form                               |
+:----------------------------------------:
+![](./EdgeLeger_project/screenshot/callback-form.png)
+
+Blog                               |
+:----------------------------------------:
+![](./EdgeLeger_project/screenshot/blog.png)
+
+Simple Post                               |
+:----------------------------------------:
+![](./EdgeLeger_project/screenshot/sample-post.png)
+
+* [**A full feature, responsive website with HTML5 & CSS3 & little JS**](./EdgeLeger_project)
