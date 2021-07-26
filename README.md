@@ -31,7 +31,8 @@ Home                                      | About                               
 ![](./hotel_project/screenshot/home.png)  |  ![](./hotel_project/screenshot/about.png) | ![](./hotel_project/screenshot/contact.png)
 
 
-* [**A simple hotel website only with HTML5 & CSS3**](./hotel_project)
+* [**A simple hotel website only with HTML5 & CSS3**](./hotel_project)  
+---> [**LIVE VERSION**](https://optimistic-cray-8a0d76.netlify.app/index.html)
 
 #### EdgeLeger Website
 
@@ -63,4 +64,6 @@ Simple Post                               |
 :----------------------------------------:
 ![](./EdgeLeger_project/screenshot/sample-post.png)
 
-* [**A full feature, responsive website with HTML5 & CSS3 & little JS**](./EdgeLeger_project)
+* [**A full feature, responsive website with HTML5 & CSS3 & little JS**](./EdgeLeger_project)  
+---> [**LIVE VERSION**](https://hopeful-mcclintock-604e74.netlify.app/index.html)
+
